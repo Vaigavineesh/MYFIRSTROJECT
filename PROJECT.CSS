@@ -1,0 +1,16 @@
+@MEDIA(max-width:1000px)
+{
+    P{
+        font-size: small ;
+    }
+    H3{
+        font-size: small;
+    }
+}
+h8{
+    text-align:center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    ;
+}
+
